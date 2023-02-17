@@ -24,7 +24,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=a6120d)&nbsp;
 ### Mobile
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![RxJava](https://img.shields.io/badge/-RxJava-05122A?style=flat&logo=rxjava)&nbsp;
+![Jetpack](https://img.shields.io/badge/-Jetpack-05122A?style=flat&logo=jetpack)&nbsp;
+![Retrofit](https://img.shields.io/badge/-Retrofit-05122A?style=flat&logo=retrofit)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
