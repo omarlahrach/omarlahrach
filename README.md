@@ -7,4 +7,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarlahrach&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarlahrach)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omarlahrach&theme=dark&ring=2EEB81)](https://git.io/streak-stats)
