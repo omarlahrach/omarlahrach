@@ -3,6 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarlahrach&label=Profile%20views&color=0e75b6&style=flat" alt="omarlahrach" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarlahrach&show_icons=true&theme=onestar)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarlahrach&show_icons=true&theme=discord)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarlahrach&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarlahrach&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
