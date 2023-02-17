@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarlahrach&label=Profile%20views&color=0e75b6&style=flat" alt="omarlahrach" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarlahrach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarlahrach&backround=#000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarlahrach&show_icons=true&theme=onedark)
 
