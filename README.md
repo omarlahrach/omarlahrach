@@ -1,7 +1,6 @@
 
 <div align=center>
-    <p>Hi, I'm Omar LAHRACH, a software engineer from morocco<p>
-    <a href="https://www.linkedin.com/in/omarlahrach/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <h1>Hi, I'm Omar LAHRACH, a software engineer from morocco<h1>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=omarlahrach&icon=0&color=0)]()
