@@ -1,10 +1,38 @@
-@Configuration
-@EnableTransactionManagement
-@EnableJpaRepositories(
-    basePackages = "com.example.repository.db1",
-    entityManagerFactoryRef = "db1EntityManagerFactory",
-    transactionManagerRef = "db1TransactionManager"
-)
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+
+import java.security.SecureRandom;
+
+public class PasswordGenerator {
+
+    private static final String CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    private static final int PASSWORD_LENGTH = 12;
+    private final SecureRandom random = new SecureRandom();
+    private final PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+
+    public String generateRawPassword() {
+        StringBuilder password = new StringBuilder(PASSWORD_LENGTH);
+        for (int i = 0; i < PASSWORD_LENGTH; i++) {
+            password.append(CHARACTERS.charAt(random.nextInt(CHARACTERS.length())));
+        }
+        return password.toString();
+    }
+
+    public String generateEncodedPassword() {
+        String rawPassword = generateRawPassword();
+        return passwordEncoder.encode(rawPassword);
+    }
+
+    public static void main(String[] args) {
+        PasswordGenerator generator = new PasswordGenerator();
+        String rawPassword = generator.generateRawPassword();
+        String encodedPassword = generator.generateEncodedPassword();
+
+        System.out.println("Raw Password: " + rawPassword);
+        System.out.println("Encoded Password: " + encodedPassword);
+    }
+}
+
 
 <h1 align="center">Hi, I'm Omar LAHRACH, a software engineer from morocco<h1>
 
