@@ -6,3 +6,36 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
+| **Commande** | **Description**                                                     |                                                                                                                     |
+| ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| `/explain`   | Explique le fonctionnement du code sélectionné.                     |                                                                                                                     |
+| `/fix`       | Propose une correction pour les problèmes dans le code sélectionné. |                                                                                                                     |
+| `/tests`     | Génère des tests unitaires pour le code sélectionné.                |                                                                                                                     |
+| `/doc`       | Ajoute un commentaire de documentation pour le symbole actuel.      |                                                                                                                     |
+| `/optimize`  | Analyse et améliore les performances du code sélectionné.           |                                                                                                                     |
+| `/help`      | Fournit une aide sur l'utilisation de GitHub Copilot.               |                                                                                                                     |
+| `/new`       | Crée un nouveau projet ou une nouvelle conversation.                |                                                                                                                     |
+| `/clear`     | Démarre une nouvelle session de chat.                               | ([GitHub Docs][1], [DEV Community][2], [HackerNoon][3], [GitHub][4], [Visual Studio Magazine][5], [GitHub Docs][6]) |
+
+| **Participant** | **Description**                                                                           |                                                              |
+| --------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| `@github`       | Accède aux compétences spécifiques à GitHub, telles que les dépôts, les PR et les issues. |                                                              |
+| `@workspace`    | Considère l'ensemble du code dans votre espace de travail pour répondre aux questions.    |                                                              |
+| `@terminal`     | Fournit une assistance pour les commandes du terminal dans Visual Studio Code.            |                                                              |
+| `@vscode`       | Aide avec les commandes et fonctionnalités de Visual Studio Code.                         |                                                              |
+| `@azure`        | Offre une assistance sur les services Azure, y compris le déploiement et la gestion.      | ([DEV Community][1], [GitHub Docs][2], [The GitHub Blog][3]) |
+
+| **Variable** | **Description**                                           |                                                                                                              |
+| ------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `#file`      | Inclut le contenu du fichier actuel dans la demande.      |                                                                                                              |
+| `#function`  | Inclut la fonction ou méthode actuelle dans la demande.   |                                                                                                              |
+| `#class`     | Inclut la classe actuelle dans la demande.                |                                                                                                              |
+| `#selection` | Inclut le texte actuellement sélectionné dans la demande. |                                                                                                              |
+| `#line`      | Inclut la ligne de code actuelle dans la demande.         |                                                                                                              |
+| `#project`   | Inclut le contexte du projet dans la demande.             |                                                                                                              |
+| `#path`      | Inclut le chemin du fichier dans la demande.              |                                                                                                              |
+| `#comment`   | Inclut le commentaire actuel dans la demande.             |                                                                                                              |
+| `#block`     | Inclut le bloc de code actuel dans la demande.            |                                                                                                              |
+| `#sym`       | Inclut le symbole actuel dans la demande.                 | ([The GitHub Blog][1], [GitHub Docs][2], [GitHub][3], [frkim.github.io][4], [GitHub][5], [DEV Community][6]) |
