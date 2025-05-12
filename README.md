@@ -39,3 +39,11 @@
 | `#comment`   | Inclut le commentaire actuel dans la demande.             |                                                                                                              |
 | `#block`     | Inclut le bloc de code actuel dans la demande.            |                                                                                                              |
 | `#sym`       | Inclut le symbole actuel dans la demande.                 | ([The GitHub Blog][1], [GitHub Docs][2], [GitHub][3], [frkim.github.io][4], [GitHub][5], [DEV Community][6]) |
+
+
+| **Modèle** | **Éditeur**     | **Quand l’utiliser**                                                                                                                                         |
+| ---------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **GPT**    | OpenAI          | Idéal pour la **génération de code**, l’**explication de code complexe**, ou pour poser des **questions générales**. C’est le modèle le plus polyvalent.     |
+| **Claude** | Anthropic       | Préférez Claude pour des tâches nécessitant une **compréhension fine du contexte**, une **réécriture de code claire**, ou des **demandes longues**.          |
+| **Gemini** | Google DeepMind | Utile quand vous avez besoin de **raisonnement avancé**, de **planification par étapes**, ou pour travailler avec du **contenu multimodal** (texte + image). |
+
